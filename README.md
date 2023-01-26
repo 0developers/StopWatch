@@ -2,7 +2,10 @@
 
 This project has 2 modes , stop watch and simple timer .
 
-this project is a very simple project and with simple design , it allows you to use stop watch and timer on your phone!
+this project is a very simple , it allows you to use stop watch and timer Features on your phone!
+
+
+
 
     # Features
     
