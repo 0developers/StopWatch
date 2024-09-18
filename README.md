@@ -1,3 +1,6 @@
+# NOTE
+this project is outdated and it will no longer be updated .
+latest update : https://github.com/0developers/StopWatchRemade
 # StopWatch
 
 This project has 2 modes , stop watch and simple timer .
